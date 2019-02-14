@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Designed by GIX Winter Camp Team 4
 
 You can use the [editor on GitHub](https://github.com/gixwater/Reflux-Household-Water-saving-System/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
